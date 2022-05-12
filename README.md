@@ -1,4 +1,4 @@
 # TDD
 Test Driven Development Learning.
 
-- Automated Tests using python and unittest package.
+- Automated tests using Python and unittest package.
